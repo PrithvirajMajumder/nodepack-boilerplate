@@ -1,5 +1,5 @@
 ## NodePack Boilerplate 🔥
-😕 If that name in suggesting anything then 😉 let me tell you it is stand for NodeJs and Webpack integrated boilerplate.
+😕 If that name is not suggesting anything then 😉 let me tell you it is stand for NodeJs and Webpack integrated boilerplate.
 
 
 **_Official Documentation Links:_**
